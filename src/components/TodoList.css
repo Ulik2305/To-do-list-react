@@ -1,0 +1,15 @@
+ li{
+   display: flex; 
+   align-items: center;
+   justify-content: center;
+} 
+span{
+    margin-left: 13px;
+    margin-right: 13px;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-bottom: 10px;
+}
